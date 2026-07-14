@@ -1,158 +1,66 @@
 # 📈 Progress Tracker
 
-This document tracks my progress throughout the **MERN Job Ready Challenge**.
+## Phase 1 – Frontend Foundations
 
-The purpose of this tracker is to monitor consistency, measure progress, and ensure that every phase, technology, project, and milestone is completed before moving forward.
-
----
-
-# 🎯 Overall Progress
-
-| Phase                               | Status        | Progress |
-| ----------------------------------- | ------------- | -------- |
-| Phase 1 – Frontend Foundations      | ⬜ Not Started | 0%       |
-| Phase 2 – JavaScript                | ⬜ Not Started | 0%       |
-| Phase 3 – React JS                  | ⬜ Not Started | 0%       |
-| Phase 4 – Backend Development       | ⬜ Not Started | 0%       |
-| Phase 5 – MongoDB                   | ⬜ Not Started | 0%       |
-| Phase 6 – MERN & Career Preparation | ⬜ Not Started | 0%       |
+| Technology   | Status | Project |
+| ------------ | :----: | :-----: |
+| HTML         |    ⬜   |    ⬜    |
+| CSS          |    ⬜   |    ⬜    |
+| Bootstrap    |    ⬜   |    ⬜    |
+| Tailwind CSS |    ⬜   |    ⬜    |
 
 ---
 
-# 📚 Technology Progress
+## Phase 2 – JavaScript
 
-| Technology      | Status | Progress |
-| --------------- | ------ | -------- |
-| HTML (Revision) | ⬜      | 0%       |
-| CSS (Revision)  | ⬜      | 0%       |
-| Bootstrap       | ⬜      | 0%       |
-| Tailwind CSS    | ⬜      | 0%       |
-| JavaScript      | ⬜      | 0%       |
-| React JS        | ⬜      | 0%       |
-| Node.js         | ⬜      | 0%       |
-| Express.js      | ⬜      | 0%       |
-| MongoDB         | ⬜      | 0%       |
-| MERN Stack      | ⬜      | 0%       |
+| Technology | Status | Project |
+| ---------- | :----: | :-----: |
+| JavaScript |    ⬜   |    ⬜    |
 
 ---
 
-# 📅 Daily Progress
+## Phase 3 – React JS
 
-| Day      | Technology | Status |
-| -------- | ---------- | ------ |
-| Day 001  | ⬜          | ⬜      |
-| Day 002  | ⬜          | ⬜      |
-| Day 003  | ⬜          | ⬜      |
-| Day 004  | ⬜          | ⬜      |
-| Day 005  | ⬜          | ⬜      |
-| ...      | ...        | ...    |
-| Day 100+ | ⬜          | ⬜      |
+| Technology | Status | Project |
+| ---------- | :----: | :-----: |
+| React JS   |    ⬜   |    ⬜    |
 
 ---
 
-# 💻 Project Progress
+## Phase 4 – Backend Development
 
-| Technology   | Project                         | Status |
-| ------------ | ------------------------------- | ------ |
-| HTML         | HTML Project                    | ⬜      |
-| CSS          | Continuation Project            | ⬜      |
-| CSS          | Independent Project             | ⬜      |
-| Bootstrap    | Continuation Project            | ⬜      |
-| Bootstrap    | Independent Project             | ⬜      |
-| Tailwind CSS | Continuation Project            | ⬜      |
-| Tailwind CSS | Independent Project             | ⬜      |
-| JavaScript   | Continuation Project            | ⬜      |
-| JavaScript   | Independent Project             | ⬜      |
-| React JS     | Continuation Project            | ⬜      |
-| React JS     | Independent Project             | ⬜      |
-| Node.js      | Continuation Project            | ⬜      |
-| Node.js      | Independent Project             | ⬜      |
-| Express.js   | Continuation Project            | ⬜      |
-| Express.js   | Independent Project             | ⬜      |
-| MongoDB      | Continuation Project            | ⬜      |
-| MongoDB      | Independent Project             | ⬜      |
-| MERN Stack   | Industry-Level Capstone Project | ⬜      |
-| MERN Stack   | Full Stack Application          | ⬜      |
+| Technology | Status | Project |
+| ---------- | :----: | :-----: |
+| Node.js    |    ⬜   |    ⬜    |
+| Express.js |    ⬜   |    ⬜    |
 
 ---
 
-# 📖 Learning Progress
+## Phase 5 – MongoDB
 
-Track completion of each learning activity.
-
-| Activity                      | Status |
-| ----------------------------- | ------ |
-| Topics Completed              | ⬜      |
-| Subtopics Completed           | ⬜      |
-| Practice Questions Completed  | ⬜      |
-| Coding Assignments Completed  | ⬜      |
-| Daily Challenges Completed    | ⬜      |
-| Interview Questions Completed | ⬜      |
-| Notes Prepared                | ⬜      |
-| Code Practiced                | ⬜      |
+| Technology | Status | Project |
+| ---------- | :----: | :-----: |
+| MongoDB    |    ⬜   |    ⬜    |
 
 ---
 
-# 🚀 Portfolio Progress
+## Phase 6 – MERN Stack
 
-| Task                    | Status |
-| ----------------------- | ------ |
-| GitHub Repository Setup | ✅      |
-| Repository Structure    | ⬜      |
-| README Completed        | ✅      |
-| Projects Uploaded       | ⬜      |
-| Portfolio Website       | ⬜      |
-| Resume                  | ⬜      |
-| LinkedIn Updated        | ⬜      |
-| GitHub Profile README   | ⬜      |
-
----
-
-# 🎤 Interview Preparation
-
-| Category        | Status |
-| --------------- | ------ |
-| HTML            | ⬜      |
-| CSS             | ⬜      |
-| Bootstrap       | ⬜      |
-| Tailwind CSS    | ⬜      |
-| JavaScript      | ⬜      |
-| React JS        | ⬜      |
-| Node.js         | ⬜      |
-| Express.js      | ⬜      |
-| MongoDB         | ⬜      |
-| MERN Stack      | ⬜      |
-| HR Interview    | ⬜      |
-| Mock Interviews | ⬜      |
+| Milestone             | Status |
+| --------------------- | :----: |
+| MERN Integration      |    ⬜   |
+| Capstone Project      |    ⬜   |
+| Portfolio Completed   |    ⬜   |
+| Resume Updated        |    ⬜   |
+| GitHub Optimized      |    ⬜   |
+| Interview Preparation |    ⬜   |
+| Job Applications      |    ⬜   |
+| Offer Received        |    ⬜   |
 
 ---
 
-# 🌟 Milestones
+# 🏁 Final Goal
 
-| Milestone                            | Status |
-| ------------------------------------ | ------ |
-| Repository Created                   | ✅      |
-| Roadmap Prepared                     | ⬜      |
-| Phase 1 Completed                    | ⬜      |
-| Phase 2 Completed                    | ⬜      |
-| Phase 3 Completed                    | ⬜      |
-| Phase 4 Completed                    | ⬜      |
-| Phase 5 Completed                    | ⬜      |
-| Phase 6 Completed                    | ⬜      |
-| Portfolio Ready                      | ⬜      |
-| Resume Ready                         | ⬜      |
-| First Job Application Submitted      | ⬜      |
-| First Interview Attended             | ⬜      |
-| First Software Developer Job Secured | ⬜      |
-
----
-
-# 📝 Progress Notes
-
-Use this section to record important achievements, lessons learned, challenges faced, and improvements throughout the journey.
-
----
-
-## 🎯 Final Goal
-
-> Complete every phase, build production-ready projects, prepare a strong portfolio, and secure my first Software Developer role.
+* [ ] Become a Job-Ready MERN Stack Developer.
+* [ ] Build a professional portfolio.
+* [ ] Secure my first software developer job.
